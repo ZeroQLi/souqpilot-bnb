@@ -1,0 +1,6 @@
+fastapi==0.123.9
+uvicorn[standard]==0.38.0
+pydantic==2.12.5
+python-dotenv==1.2.1
+langchain==1.1.2
+fast-flights==2.2
