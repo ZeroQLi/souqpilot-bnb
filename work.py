@@ -20,7 +20,7 @@ async def main():
         
         # Example prompts showing the agent's capabilities
         test_prompts = [
-            "Show me flights from Dubai to Chennai on January 15, 2026 for 1 adult in economy",
+            "Show me flights from london to dubai on febuary 14, 2026",
             "Find business class flights from London to New York next month",
             "I need a round-trip ticket from Paris to Tokyo",
         ]
