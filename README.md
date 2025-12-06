@@ -2,6 +2,15 @@
 
 A modern flight search application powered by AI agents and blockchain technology. Search for flights using natural language and book with cryptocurrency through MetaMask.
 
+## SETUP
+```
+git clone https://github.com/ZeroQLi/souqpilot-bnb.git
+python -m venv venv
+source venv/bin/activate
+pip install -r ./backend/requirements.txt
+npm i
+```
+
 ## Features
 
 - 🤖 **AI-Powered Search**: Natural language flight search using LangChain agents
